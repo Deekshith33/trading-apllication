@@ -158,8 +158,8 @@ public:
 		bitcoin = 5;
 		withdraw = 0;
 		deposit = 0;
-		dogecoin_value = 100;
-		bitcoin_value = 500;
+		dogecoin_value = 5;
+		bitcoin_value = 2200000;
 	}
 };
 
